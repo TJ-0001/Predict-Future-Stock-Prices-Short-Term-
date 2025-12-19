@@ -48,11 +48,7 @@ This is a **regression problem**, where a **Random Forest Regressor** is trained
 ## Model Evaluation
 
 ### Metrics Used
-- **Mean Absolute Error (MAE)**  
-- **Root Mean Squared Error (RMSE)**  
-
-These metrics measure how close the predicted prices are to the actual closing prices.
-
+- **Mean Squared Error (MSE)**  
 ---
 
 ## Visualization
