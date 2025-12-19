@@ -10,7 +10,7 @@ This is a **regression problem**, where a **Random Forest Regressor** is trained
 - **Source:** Yahoo Finance  
 - **Accessed Using:** `yfinance` Python library  
 - **Stock Used:** Apple Inc. (`AAPL`)   
-- **Time Period:** 2020 – 2023  
+- **Time Period:** 2023 – 2025  
 
 ### Features Used
 - `Open` – Opening price of the stock  
